@@ -1,0 +1,7 @@
+>>> Warning 203 "SeraOtomasyonu.c" Line 54(1,1): Condition always TRUE
+>>> Warning 203 "SeraOtomasyonu.c" Line 56(1,1): Condition always TRUE
+>>> Warning 203 "SeraOtomasyonu.c" Line 105(1,1): Condition always TRUE
+>>> Warning 203 "SeraOtomasyonu.c" Line 135(1,1): Condition always TRUE
+      Memory usage:   ROM=21%      RAM=4% - 11%
+      0 Errors,  4 Warnings.
+Build Successful.
